@@ -1,6 +1,7 @@
 {
   "version_code": 2,
-  "db_name": "full_data_v2.7z",
-  "url": "https://raw.githubusercontent.com/user/repo/main/data/full_data_v2.7z",
-  "checksum": "a1b2c3d4..." 
+  "db_name": "full_caythuoc.7z",
+  "url": "https://raw.githubusercontent.com/minimum-vn/caythuoc/main/full_caythuoc.7z",
+  "size_bytes": 5119194,
+  "notes": "Cập nhật thêm 50 bài thuốc trị cảm cúm"
 }
