@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
+  "version_code": 4,
   "db_name": "full_caythuoc.zip",
   "url": "https://raw.githubusercontent.com/minimum-vn/caythuoc/main/full_caythuoc.zip",
   "db_pass": "dmlob2FiaW5o",
   "size_bytes": 5119194,
-  "notes": "Đổi FTS5 thành FTS4"
+  "notes": "Cập nhật cây hoa quả"
 }
